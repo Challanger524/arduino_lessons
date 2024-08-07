@@ -1,3 +1,7 @@
+KS0088 IR remote:
+
+![](KS0088-IR_remote.png)
+
 Serial Monitor output:
 ```
 START C:\dan\dev\@Arduino\Study\14-remote_control_ir\14-remote_control_ir.ino from Aug  6 2024
